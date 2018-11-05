@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuleGroups", "RuleGroups\RuleGroups.csproj", "{9543D04D-81D8-452E-A329-47B6571F9B6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9543D04D-81D8-452E-A329-47B6571F9B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9543D04D-81D8-452E-A329-47B6571F9B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9543D04D-81D8-452E-A329-47B6571F9B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9543D04D-81D8-452E-A329-47B6571F9B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75978CB1-C6D9-472B-A432-5349C2165265}
+	EndGlobalSection
+EndGlobal
